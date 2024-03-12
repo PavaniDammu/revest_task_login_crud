@@ -1,4 +1,4 @@
-# Building a Login with Authorization and Users CRUD using Node.js + Angular + PostgreSQL
+# Login System with Authorization and Users CRUD using Node.js, Angular, and PostgreSQL
 
 * Created By: Dammu Pavani
 * Email: dammupavani44@gmail.com
@@ -11,14 +11,15 @@
 ### Node.js Server
 ```
 cd demo-be
-node server.js
+npm install
+npm start
 ```
 
 ### Angular Client
 ```
 cd demo-fe
 ```
-Run `ng serve --port 4200` for a dev server. Navigate to `http://localhost:4200/`.
+Run `ng build; ng serve;` for a dev server. Navigate to `http://localhost:4200/`.
 
 
 ## Description
