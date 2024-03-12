@@ -1,9 +1,10 @@
 # **Building a Login with Authorization and Users CRUD using Node.js + Angular + PostgreSQL**# 
 
-Created By: Dammu Pavani, Email: dammupavani44@gmail.com
+* Created By: Dammu Pavani
+* Email: dammupavani44@gmail.com
 
 **Installation**
-Ensure you have Node.js, NPM, and PostgreSQL installed on your system.
+* Ensure you have Node.js, NPM, and PostgreSQL installed on your system.
 
 ## Project setup
 
