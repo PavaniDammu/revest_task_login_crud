@@ -1,0 +1,24 @@
+{
+    "name": "demo-be",
+    "version": "1.0.0",
+    "description": "Revest assignment by using nodejs, angular, postgresql",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "Pavani",
+    "license": "ISC",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.19.0",
+        "cookie-parser": "^1.4.6",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "express-session": "^1.18.0",
+        "jsonwebtoken": "^9.0.2",
+        "pg": "^8.11.3",
+        "sequelize": "^5.21.2"
+    }
+}
